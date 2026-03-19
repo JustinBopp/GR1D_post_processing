@@ -22,14 +22,12 @@ project_root/
 ├── post_process.py
 ├── post_tasks.py
 ├── analysis/
-│   ├── plot_shock.py
 │   ├── plot_multi_shock.py
 │   ├── plot_multi_neutrinos.py
 │   ├── plot_multi_pns_mass.py
 │   ├── plot_multi_toverw.py
 │   ├── plot_multi_vturb.py
-│   ├── plot_multi_vphi_flattening.py
-│   ├── calc_disk_properties.py
+│   ├── calc_disk_formation.py
 │   └── ...
 │
 ├── sims/
