@@ -1,4 +1,4 @@
-```
+
 # Post-Processing Pipeline for GR1D Simulations
 
 ## Overview
@@ -174,7 +174,7 @@ python post_process.py --skip sim_to_ignore
 python post_process.py --skip-modules modules_to_ignore
 ```
 
----
+
 
 ## Adding New Analysis
 
